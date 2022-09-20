@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ahmet8873.github.io/ensar-avci/static/css/main.9bd7a35e.css",
+    "main.js": "/ahmet8873.github.io/ensar-avci/static/js/main.11e0c8eb.js",
+    "static/js/787.0c3f432a.chunk.js": "/ahmet8873.github.io/ensar-avci/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/ahmet8873.github.io/ensar-avci/index.html",
+    "main.9bd7a35e.css.map": "/ahmet8873.github.io/ensar-avci/static/css/main.9bd7a35e.css.map",
+    "main.11e0c8eb.js.map": "/ahmet8873.github.io/ensar-avci/static/js/main.11e0c8eb.js.map",
+    "787.0c3f432a.chunk.js.map": "/ahmet8873.github.io/ensar-avci/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.11e0c8eb.js"
+  ]
+}
