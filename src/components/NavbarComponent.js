@@ -21,7 +21,7 @@ const NavbarComponent = () => {
              <Nav.Link href='#hacivat'> Golge Oyunu</Nav.Link>
              <Nav.Link href='#nasreddin'> Masal</Nav.Link>
              <Nav.Link href='#oyunlar'> Oyunlar</Nav.Link>
-             <Nav.Link href='#kitap'> Kitap</Nav.Link>
+         
           </Nav>
         </Navbar.Collapse>
       </Container>
