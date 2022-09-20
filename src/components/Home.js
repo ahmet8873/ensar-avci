@@ -14,7 +14,7 @@ const Home = () => {
       </Col>
       
       <Col xs='6'>
-      <img style={{height:'480px'}} src="./img/IMG-20220917-WA0018.jpg" alt="" />
+      <img style={{height:'450px'}} src="./img/IMG-20220917-WA0018.jpg" alt="" />
       </Col>
     </Row>
 

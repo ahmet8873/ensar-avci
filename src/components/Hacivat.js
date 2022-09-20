@@ -11,7 +11,7 @@ const Hacivat = () => {
       </Col>
       <Col xs='6'>
 
-        <h1 style={{fontFamily:'Cursive', marginTop:'100px'}}> iste bu da en sevdigim golge oyunlarindan biri..</h1>
+        <h1 style={{fontFamily:'Cursive', marginTop:'100px'}}> Iste bu da en sevdigim golge oyunlarindan biri..</h1>
       </Col>
     </Row>
   

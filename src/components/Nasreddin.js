@@ -7,12 +7,12 @@ const Nasreddin = () => {
 
 <Row>
       
-      <Col xs='6'>
+      <Col xs='4'>
 
-        <h1 style={{fontFamily:'Cursive', marginTop:'100px'}}> iste bu da en sevdigim masallardan biri..</h1>
+        <h1 style={{fontFamily:'Cursive', marginTop:'100px'}}> Iste bu da en sevdigim masallardan biri..</h1>
       </Col>
 
-      <Col xs='6'>
+      <Col xs='8'>
       <ReactPlayer controls url='https://www.youtube.com/watch?v=wGqUpbLAqX0&ab_channel=DiyanetTV'></ReactPlayer>
       </Col>
     </Row>
