@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ensar-avci/static/css/main.9bd7a35e.css",
-    "main.js": "/ensar-avci/static/js/main.b7fa8199.js",
+    "main.js": "/ensar-avci/static/js/main.a9746814.js",
     "static/js/787.0c3f432a.chunk.js": "/ensar-avci/static/js/787.0c3f432a.chunk.js",
     "index.html": "/ensar-avci/index.html",
     "main.9bd7a35e.css.map": "/ensar-avci/static/css/main.9bd7a35e.css.map",
-    "main.b7fa8199.js.map": "/ensar-avci/static/js/main.b7fa8199.js.map",
+    "main.a9746814.js.map": "/ensar-avci/static/js/main.a9746814.js.map",
     "787.0c3f432a.chunk.js.map": "/ensar-avci/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bd7a35e.css",
-    "static/js/main.b7fa8199.js"
+    "static/js/main.a9746814.js"
   ]
 }
