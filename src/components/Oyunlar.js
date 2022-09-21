@@ -8,17 +8,17 @@ const Oyunlar = () => {
 
         <Row style={{marginTop:'3rem'}} >
 
-        <Col xs='4'>
+        <Col xs={4}>
           <a href="https://www.trtcocuk.net.tr/oyunlar/ege-ile-gaga-bulmaca">
     <img  style={{height:'200px' ,borderRadius:'50%'}} src="./Screenshot 2022-09-20 at 01.18.53.png" alt="" />
 </a>  
         </Col>
-        <Col xs='4'>
+        <Col xs={4}>
         <a href="https://www.trtcocuk.net.tr/oyunlar/rafadan-tayfa-mahalle-meselesi">
     <img style={{height:'200px',borderRadius:'50%'}} src="./Screenshot 2022-09-20 at 01.23.26.png" alt="" />
 </a>  
         </Col>
-        <Col xs='4'>
+        <Col xs={4}>
         <a href="https://www.trtcocuk.net.tr/oyunlar/rafadan-tayfa-tornet">
     <img style={{height:'200px',borderRadius:'50%'}} src="./Screenshot 2022-09-20 at 01.23.44.png" alt="" />
 </a> 
